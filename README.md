@@ -10,7 +10,6 @@ Process:<BR>
 <b>Refinement</b>: Once I had collected my data, I began to refine my visualizations. I experimented with different graph types and data aggregation methods to create visualizations that were both informative and visually appealing.<br>
 <br>
 Graph Types Chosen and Why:<br>
-<br>
 1. Global Economic Trends Over Time (Line Graph): Line graph to illustrate the trends in GNI and GDP over multiple years for each country. Line graphs are effective in showing continuous data trends over time.<br>
 <br>
 2. Side-by-side circle chart : It serves the purpose of visually comparing the Per Capita GNI of different countries from 2000 to 2021. This visualization choice aligns with the specific nature of the data and the insights sought after, providing a clear and concise representation of economic well-being across nations over time.<br>
