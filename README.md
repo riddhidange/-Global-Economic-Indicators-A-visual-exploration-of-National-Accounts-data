@@ -10,6 +10,7 @@ Process:<BR>
 <b>Refinement</b>: Once I had collected my data, I began to refine my visualizations. I experimented with different graph types and data aggregation methods to create visualizations that were both informative and visually appealing.<br>
 <br>
 Graph Types Chosen and Why:<br>
+<br>
 Global Economic Trends Over Time (Line Graph):<br>
 <br>
 1. Line graph to illustrate the trends in GNI and GDP over multiple years for each country : Line graphs are effective in showing continuous data trends over time.<br>
